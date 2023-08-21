@@ -17,7 +17,7 @@
 
 ## 🛠 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,nodejs,react,vite,express,firebase,mongodb,postman,vscode,linkedin,instagram,twitter,github,git,discord,c,ae,pr)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,nodejs,react,vite,express,firebase,mongodb,postman,vscode,linkedin,instagram,twitter,github,git,discord,c,ae,pr)](https://skillicons.dev)
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tyler-bert-baring-156464270/?original_referer=)
