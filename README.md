@@ -4,9 +4,7 @@
 
 🚀  Junior Web Developer
 
-🧠 I'm currently learning Applications Development using NodeJS, React, Firebase, MongoDB, and Express
-
-👯‍♀️ I'm looking to collaborate on projects that revolved around web development
+🧠 I'm currently learning Applications Development using NodeJS, React, Firebase, and Express
 
 📫 Reach me through **baringtylerbert31@gmail.com** or through the links provided
 
