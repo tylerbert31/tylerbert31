@@ -4,7 +4,7 @@
 
 🚀  Junior Web Developer
 
-🧠 I'm currently learning Applications Development using NodeJS, React, Firebase, and Express
+🧠 I'm currently learning Applications Development using NextJS and CakePHP
 
 📫 Reach me through **baringtylerbert31@gmail.com** or through the links provided
 
