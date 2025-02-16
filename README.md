@@ -2,9 +2,9 @@
 # Hi, I'm Tyler Bert Baring! 👋
 
 
-🚀  Junior Web Developer
+🚀  Full-stack Web Developer
 
-🧠 I'm currently learning Applications Development using NextJS and CakePHP
+🧠 I'm currently learning Applications Development using NextJS, Laravel, and CakePHP
 
 📫 Reach me through **baringtylerbert31@gmail.com** or through the links provided
 
